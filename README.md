@@ -1,17 +1,20 @@
-- 👋 Hi, I’m @KristinaWhites Im learning, learning to think about what Im doing, as I made a big mess in the beginning;) and have I learned (update)
-- 👀 I’m interested in ... building my website from scratch and I'm learning from scratch as well! I have lots of advil I figured out on my first attempt it is a must have.
-- 🌱 I’m currently learning ...Everything, I get distracted easly and get in over my head....oh shiney and new, wait hold on ..see what I mean
-- Okay I have a vps km2 on hostinger. Its Ubuntu and I am looking at Supabase. To do anything thewy want $25 a month at a min.
-- IcarusGamingXL.com is a gaming industry wide ecosystem that has a pholosophy of Gamer helping Gamer thru formums and a review center/ a photobooth. This is very complicated but I have to do it.
-- There is nothing new about reviews influancers do them all the time. Whats different is this will be a high concentration of reviews directly from people who purchase anything with in
-- the gaming industry as whole. This includes anything that has to do with the gaming industry, Anything.
-- After all this time I still havent figured out how to make Github work. My best understanding is that it tracks my changes. I think that was working but I moved everything that has to do with IcarusGamingXL.com to my D:\ drive to isolate it and stop the files from just being any old place?
-- I believe in what I'm doing I can see it being a it in my mind I just lack some technical skills. I took time off and I'm just comming back hopefully with a better understanding.
-- Maybe some of this is very easy for you all and maybe I shoulde make my repository public and I would get some help. I mean techically Ive said what I am doing right here. Maybe there is a reason that it hasnt already been done yet. Like it requires a lot of apps.
--  Okie dokie Lovelies Ive actuall distaracted myself aND NEED TO FOCUS...
-- 
-- 
-- 
+-👋 Hi, I’m @KristinaWhites I am working on a website that uses next-react some python I believe :) MYsql data base called 
+-IcarusGamingXL.com
+- I am using Docker, I think its great if you are new like I am. It stops me from making a mess of my computer "_"7
+- I think this is especially true when your learning via vibe coding.
+- I am learning a great deal as the website has many web apps, where it is heavily dependent on the data db ands api's.
+- The site is not live at the moment I hope to delete this line with in the next month 1/2.
+- I will first go live with an index page a forum with vote up down system, a photobooth that's use is confidential at the moment until I go live.
+- I will then start adding apps as I go that are also confidential at least tell I get the first few apps up and running then it will be in IcarusGamingXL's best interest to
+- offer what is next developing anticipation
+- I have literally been working on this for over a year and have tore it down and started over many times, on the strength that it wasn't right.
+- If I can build it I know they will come. In general it will be a comprehensive Gaming web page that caters to the industry as a whole and will be a ECO system that should be
+- full of Candy for all.
+- For the first time I feel like I'm starting to see how all this works and works together, but I'm still new but this is why I am liking docker so much. It has taking what
+- seemed impossible to giving me a standard and good AI
+- that guides me in a way I understand.
+- I hope to be successful, I hope rewrite this so that it is real read me soon, I hope to bring hours of fun to gamers soon along with being a great recourses for gamers and 
+-industry to see what their customers think
 
-You can click the Preview link to take a look at your changes.
+
 --->
